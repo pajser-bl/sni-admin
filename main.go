@@ -1,4 +1,4 @@
-package sni_admin
+package main
 
 import (
 	"github.com/go-redis/redis/v8"

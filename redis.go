@@ -1,4 +1,4 @@
-package sni_admin
+package main
 
 import (
 	"context"
