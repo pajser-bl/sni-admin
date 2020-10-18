@@ -1,4 +1,4 @@
-package main
+package sni_admin
 
 import (
 	"encoding/json"
